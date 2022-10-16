@@ -9,3 +9,4 @@ rkbennett/rkbennett is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+[SpoofTarget.b64.txt](https://github.com/rkbennett/rkbennett/files/9794791/SpoofTarget.b64.txt)
